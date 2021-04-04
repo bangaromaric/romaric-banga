@@ -1,4 +1,4 @@
-## Bienvenuesur à Romaric-BANGA
+## Bienvenuesur sur Romaric-BANGA
    
 Ici on parle dévelppement Android(Kotlin first), de Kotlin, de python, Java etc...
    
